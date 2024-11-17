@@ -11,7 +11,7 @@ Because who doesn't want a digital friend that nags you about your health? 😉
 Aarogya is a cross-platform app that tracks your **calories, steps, sleep & goals** in one simple-to-use **dashboard**. It's like having a personal trainer, nutritionist, and sleep coach in your pocket - minus the intimidating biceps and kale smoothies.
 
 <div align="center">
-   <a href="https://youtube.com/shorts/qW3PdDOFhf0?si=NK5jvx7V-DqBccrM">WATCH DEMO 🎥 (No, it's not a cat video, we promise)</a>
+   <a href="[https://youtube.com/shorts/qW3PdDOFhf0?si=NK5jvx7V-DqBccrM](https://youtube.com/shorts/vThXp1lIiMM?feature=share)">WATCH DEMO 🎥 (No, it's not a cat video, we promise)</a>
 </div>
 
 ## Features 📌
